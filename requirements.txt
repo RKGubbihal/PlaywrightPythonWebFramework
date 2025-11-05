@@ -22,7 +22,7 @@ python-slugify
 #openpyxl==3.1.5
 #Faker==30.0.0
 #python-slugify==8.0.4
-
+#
 
 #Usage
 #Once you have this file in your project root, install all dependencies in one go:
